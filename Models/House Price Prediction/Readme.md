@@ -1,1 +1,1 @@
-Finding most accuratw model for House Price Prediction 
+Finding most accurate model for House Price Prediction 
